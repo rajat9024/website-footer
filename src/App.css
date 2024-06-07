@@ -1,0 +1,15 @@
+.mainfooter{
+  display: flex;
+justify-content: space-around;
+background-color: rgb(17, 17, 17);
+color: aliceblue;
+}
+a{
+  text-decoration: none;
+  color: rgba(241, 238, 234, 0.548);
+  
+}
+a:hover{
+  color: azure;
+}
+
